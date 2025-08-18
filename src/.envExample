@@ -1,0 +1,6 @@
+DB_HOST=localExample
+DB_PORT=1234
+DB_USERNAME=userNameExample
+DB_PASSWORD=passExample
+DB_NAME=dbExample
+NODE_ENV=development 
